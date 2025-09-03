@@ -1,12 +1,11 @@
 # Advanced-OSINT-Framework-with-Claude-AI  
-### *Cross-Modular Intelligence Analysis*  
+*Cross-Modular Intelligence Analysis*  
 
 ---
 
 ## 📖 Introduction
 The **Advanced-OSINT-Framework-with-Claude-AI** is a **next-generation Open Source Intelligence (OSINT) toolkit** designed for cybersecurity experts, researchers, and intelligence analysts.  
-
-Its **cross-modular architecture** allows for scalable intelligence gathering and analysis, while AI integration enhances precision, efficiency, and adaptability. Whether you are investigating digital footprints, validating data, or correlating intelligence, this framework provides a **professional-grade workflow** tailored for Linux and Termux environments.  
+  
 
 ---
 
@@ -25,6 +24,8 @@ Its **cross-modular architecture** allows for scalable intelligence gathering an
 4. **Final AI Analysis** – Summarized intelligence powered by AI  
 
 ---
+“The further a society drifts from truth, the more it will hate those who speak it.” — George Orwell
+---
 
 ## ⚙️ Installation & Setup
 Clone the repository and compile the core binary:  
@@ -40,8 +41,8 @@ g++ -std=c++17 -O2 -Wall -o ehunter ehunter.cpp
 # Run the framework
 ./ehunter
 
----
 
-“The further a society drifts from truth, the more it will hate those who speak it.” — George Orwell
+
+
 
 

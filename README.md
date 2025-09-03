@@ -27,20 +27,6 @@ The **Advanced-OSINT-Framework-with-Claude-AI** is a **next-generation Open Sour
 “The further a society drifts from truth, the more it will hate those who speak it.” — George Orwell
 ---
 
-## ⚙️ Installation & Setup
-Clone the repository and compile the core binary:  
-
-```bash
-# Clone the repository
-git clone https://github.com/FJ-cyberzilla/Advanced-OSINT-Framework-with-Claude-AI.git
-cd Advanced-OSINT-Framework-with-Claude-AI
-
-# Build binary
-g++ -std=c++17 -O2 -Wall -o ehunter ehunter.cpp
-
-# Run the framework
-./ehunter
-
 
 
 
